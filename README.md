@@ -13,4 +13,6 @@ requests are welcome!
 
 # Index
 
-Todo: add running list of exhibits
+| Domain | Topic | Language | Framework/Dependencies | Notes |
+| ------ | ----- | -------- | ---------------------- | ----- |
+| [Machine Learning](./machine-learning) | Linear Regression | [python](./machine-learning/linear_regression.py) | numpy | Analytic solution |
